@@ -1,1 +1,3 @@
 Hi Anubhav how are you????
+take input from user
+and those values
