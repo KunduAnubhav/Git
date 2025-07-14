@@ -2,6 +2,10 @@ to get the user data.
 
 processing the data..
 
+<<<<<<< HEAD
 for main branch..
+=======
+
+>>>>>>> feature1
 
 The end..
